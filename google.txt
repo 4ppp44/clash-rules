@@ -160,3 +160,4 @@ payload:
   - '+.www.pxcc.com'
   - '+.xn--9kr7l.com'
   - '+.xn--flw351e.com'
+  - '+.cloud.cupronickel.goog'
